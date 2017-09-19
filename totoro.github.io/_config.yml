@@ -94,5 +94,5 @@ theme: tranquilpeak
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/iTOTOROi/totoro.github.io.git
+  repo: https://github.com/iTOTOROi/itotoroi.github.io.git
   branch: master
